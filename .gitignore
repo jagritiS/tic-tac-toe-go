@@ -1,0 +1,10 @@
+# Go build artifacts
+*.exe
+*.out
+*.test
+
+# Go workspace
+/go.sum
+
+# OS files
+.DS_Store
